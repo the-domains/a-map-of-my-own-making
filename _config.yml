@@ -12,3 +12,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
 name: A Map of My Own Making
+author:
+  name: John Perivolaris
+  email: johnperivolaris@icloud.com
+  url: 'http://about.me/johnperivolaris'
