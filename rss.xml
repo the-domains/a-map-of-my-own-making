@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[John Perivolaris]]></title>
         <description><![CDATA[John Perivolaris]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-map-of-my-own-making/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 07:14:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 07:43:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-map-of-my-own-making/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[johnperivolaris on about.me]]></title>
             <description><![CDATA[<article><h1>johnperivolaris on about.me</h1><p>View johnperivolaris on about.me, your personal page with a purpose. johnperivolaris uses about.me to show people what matters most to them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f56b637aaaa12477d3190ba3b688ba78/noop.jpg?input=https%3A%2F%2Faboutme.imgix.net%2Fbackground%2Fjohnperivolaris_1293127306_11.jpg%3Fw%3D1200%26h%3D630%26q%3D80%26dpr%3D1%26auto%3Dformat%26fit%3Dmax%26crop%3Dfaces"></article>]]></description>
             <link>https://about.me/johnperivolaris</link>
             <guid isPermaLink="false">61164858-da13-48d2-8a97-07a532857e93</guid>
-            <pubDate>Wed, 27 Jul 2016 07:14:22 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2016 07:43:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
