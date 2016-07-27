@@ -1,16 +1,16 @@
-typography_spectrum: 0.39372461871244013
+typography_spectrum: 0.30279356497339904
 color:
-  brandStrength: 0.8575241737999022
-  lightness: 0.07541883457452059
-  saturation: 0.8590357245411724
-  rhythmicContrast: 0.2243294375948608
+  brandStrength: 0.14324940228834748
+  lightness: 0.5968836648389697
+  saturation: 0.7506856573745608
+  rhythmicContrast: 0.7693047772627324
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.1462177641224116
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.062193159479647875
 author:
   name: John Perivolaris
   email: johnperivolaris@icloud.com
