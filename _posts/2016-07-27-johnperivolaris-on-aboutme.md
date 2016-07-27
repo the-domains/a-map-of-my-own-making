@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-27T07:43:21.944Z'
+datePublished: '2016-07-27T08:06:43.539Z'
 sourcePath: _posts/2016-07-27-johnperivolaris-on-aboutme.md
 isBasedOnUrl: 'https://about.me/johnperivolaris'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-07-27T07:43:19.335Z'
+dateModified: '2016-07-27T08:06:43.391Z'
 title: johnperivolaris on about.me
 app_links: []
 publisher:
