@@ -1,4 +1,3 @@
-layout_spectrum: 0.1462177641224116
 typography_spectrum: 0.39372461871244013
 color:
   brandStrength: 0.8575241737999022
@@ -11,8 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: A Map of My Own Making
+layout_spectrum: 0.1462177641224116
 author:
   name: John Perivolaris
   email: johnperivolaris@icloud.com
   url: 'http://about.me/johnperivolaris'
+name: A Map of My Own Making
+title: John Perivolaris
