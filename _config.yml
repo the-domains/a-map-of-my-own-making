@@ -1,4 +1,4 @@
-typography_spectrum: 0.17792628868483007
+typography_spectrum: 0.06590049155056477
 color:
   brandStrength: 0.12387927458621562
   lightness: 0.4403741874266416
@@ -10,7 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.532701421296224
+layout_spectrum: 0.41741733346134424
 author:
   name: John Perivolaris
   email: johnperivolaris@icloud.com
