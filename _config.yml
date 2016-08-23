@@ -1,20 +1,32 @@
-typography_spectrum: 0.06590049155056477
+author:
+  name: John Perivolaris
+  email: johnperivolaris@icloud.com
+  url: 'http://about.me/johnperivolaris'
+title: John Perivolaris
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.12387927458621562
-  lightness: 0.4403741874266416
-  saturation: 0.8808855044189841
-  rhythmicContrast: 0.2907954554539174
+  saturation: 0.3818474
+  brandStrength: 0.1238792745862156
+  lightness: 0.4403742
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.41741733346134424
-author:
-  name: John Perivolaris
-  email: johnperivolaris@icloud.com
-  url: 'http://about.me/johnperivolaris'
-name: A Map of My Own Making
-title: John Perivolaris
+  rhythmicContrast: 0.2907954
+typography_spectrum: 0.06590049155056477
 description: 'Perpetually gravitating to islands, cities, and borders'
+layout_spectrum: 0.4174173334613442
+name: A Map of My Own Making
