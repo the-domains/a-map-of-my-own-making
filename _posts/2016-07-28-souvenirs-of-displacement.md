@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-28T07:47:49.033Z'
+datePublished: '2016-08-25T09:33:31.258Z'
+sourcePath: _posts/2016-07-28-souvenirs-of-displacement.md
 isBasedOnUrl: 'https://souvenirsofdisplacement.com'
 keywords:
   - olympus
@@ -30,7 +31,7 @@ author:
     url: 'https://souvenirsofdisplacement.com/author/johnperivolaris/'
     avatar: {}
 via: {}
-dateModified: '2016-07-28T07:47:27.439Z'
+dateModified: '2016-08-25T09:33:30.743Z'
 title: Souvenirs of Displacement
 app_links: []
 publisher:
@@ -41,7 +42,6 @@ publisher:
 description: The discontinuities are all my own. The roll of film is the journey.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-28-souvenirs-of-displacement.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -49,4 +49,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f631bd05-e01d-408f-bb12-b68970b69a51.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4e7fd78-2ed1-4f07-ab90-81e8175f28a1.jpg)
