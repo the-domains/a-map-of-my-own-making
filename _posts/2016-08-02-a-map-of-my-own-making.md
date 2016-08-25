@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-02T08:59:37.685Z'
+datePublished: '2016-08-25T09:30:42.732Z'
+sourcePath: _posts/2016-08-02-a-map-of-my-own-making.md
 author: []
 via: {}
-dateModified: '2016-08-02T08:59:22.664Z'
+dateModified: '2016-08-25T09:30:37.377Z'
 title: ''
 publisher: {}
 description: A Map of My Own Making
 starred: false
-sourcePath: _posts/2016-08-02-a-map-of-my-own-making.md
 inFeed: true
 hasPage: true
 inNav: false
